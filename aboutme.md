@@ -4,8 +4,9 @@ title: About me
 subtitle: What you need to know about me.
 ---
 
-What makes a good Data Scientist?  Data manupulation? Data presentation?  How about insights, those gems that raise the dead and increase the bottom, inform the masses and reshape our worlviews for the better?  All of these are imporant, but at bottom, they rely upon this: the ability to ask good questions. 
+What makes a good Data Scientist?  Data manupulation? Data presentation?  How about insights, those gems that fight for the bottom line and show us our foibles, inform the masses and reshape our worlviews for the better?  All of these are imporant, but at bottom, they rely upon this: the ability to ask good questions. 
 
+That is what I try to bring to every project I encounter.
 
 ### my history
 
