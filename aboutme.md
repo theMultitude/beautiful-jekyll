@@ -1,15 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What you need to know about me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+What makes a good Data Scientist?  Data manupulation? Data presentation?  How about insights, those gems that raise the dead and increase the bottom, inform the masses and reshape our worlviews for the better?  All of these are imporant, but at bottom, they rely upon this: the ability to ask good questions. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### my history
 
