@@ -10,4 +10,4 @@ That is what I try to bring to every project I encounter.
 
 ### my history
 
-..*Philosophy
++Philosophy
